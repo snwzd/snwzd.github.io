@@ -1,0 +1,37 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/comic-mono@0.0.1/index.css');
+
+body {
+  font-family: "Manrope", sans-serif;
+  font-size: 1.125em;
+}
+
+header h1 {
+  font-family: "Manrope", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Manrope", sans-serif;
+}
+
+code {
+  font-family: 'Comic Mono', monospace;
+  font-size: 0.9em;
+}
+
+pre code {
+  font-family: 'Comic Mono', monospace;
+  font-size: 0.9em;
+}
+
+#header {
+  display: none !important;
+}
+
+#title {
+  display: none !important;
+}
