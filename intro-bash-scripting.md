@@ -151,7 +151,7 @@ get_wifi_stats() {
 ```
 
 ## Using the script
-You can check out the complete script [here](https://github.com/snwzd/cringe-ahh-scripts/blob/main/system-status).
+You can check out the complete script [here](https://raw.githubusercontent.com/snwzd/misc/refs/heads/main/cringe-ahh-scripts/system-status).
 
 ```bash
 snwzd@kepler ~ > system-status 
